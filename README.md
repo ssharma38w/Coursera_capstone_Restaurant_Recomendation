@@ -1,4 +1,4 @@
-# Coursera_capstone
+# Restaurant Recomendation
 This repository contains the applied datastone capstone project for IBM through Coursera.
 It consist of only week 5 assignment.
 Week 5 assignment tasks: 
